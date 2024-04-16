@@ -12,7 +12,7 @@ output
 - Deformation in east-west directions (⊿x)：delta_X
 - Deformation in vertical directions (⊿z)：delta_Z
 
-## 2.5 direction equation
+## 2.5 dimension equation
 - ⊿x = (⊿a*cosθd - ⊿d*cosθa)/(sinθa*cosφa - sinθd*cosφd)
 - ⊿y = 0
 - ⊿z = (⊿a*sinθd*cosφd - ⊿d*sinθa*cosφa)/(cosθa*sinθd*cosφd - cosθd*sinθa*cosφa)
