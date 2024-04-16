@@ -2,10 +2,8 @@
 # Name:        InSAR_Dim25.py
 # Purpose:     InSAR 2.5-dim Analysis Program
 #
-# Author:      006323
+# Author:      Jumpei Takami
 #
-# Created:     08/06/2018
-# Copyright:   (c) 006323 2018
 # Licence:     <your licence>
 # How to execute: > InSAR_Dim25.py [Ascending Displacement] [Ascending Local Incidence Angle] [Ascending Orientation Angle]
 #                   [Descending Displacement] [Descending Local Incidence Angle] [Descending Orientation Angle]
